@@ -26,7 +26,7 @@
     <br>
 
     <h4>Jeep</h4>
-    <img src="Myndir/Enemy 2.PNG" alt="Jeep" width="800" height="532">
+    <img src="/docs/Myndir/Enemy 2.PNG" alt="Jeep" width="800" height="532">
     <p>Þetta mun vera annar óvinurinn og mun sjást í borði 2 og 3.
     <br>
     Þessi bíll er smár, en mjög hraður.
@@ -34,7 +34,7 @@
     Hann hefur 15 líf, 25 í hraða, og virði 40 dollara.</p>
     
     <h4>Airplane</h4>
-<img src="docs/Myndir/Enemy 3.PNG" alt="Airplane" width="800" height="532">
+<img src="Enemy 3.PNG" alt="Airplane" width="800" height="532">
 <p>Þetta mun vera þriðji óvinurinn og mun sjást í borði 3.
     <br>
     Þessi flugvél er kröftug, fer hægt og með mikið líf, og þarf ekki að fylgja sömu reglum og bílarnir.
