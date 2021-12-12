@@ -26,7 +26,7 @@
     <br>
 
     <h4>Jeep</h4>
-    <img src="/docs/Myndir/Enemy 2.PNG" alt="Jeep" width="800" height="532">
+    <img src="Myndir/Enemy 2.PNG" alt="Jeep" width="800" height="532">
     <p>Þetta mun vera annar óvinurinn og mun sjást í borði 2 og 3.
     <br>
     Þessi bíll er smár, en mjög hraður.
@@ -34,8 +34,8 @@
     Hann hefur 15 líf, 25 í hraða, og virði 40 dollara.</p>
     
     <h4>Airplane</h4>
-<img src="Enemy 3.PNG" alt="Airplane" width="800" height="532">
-<p>Þetta mun vera þriðji óvinurinn og mun sjást í borði 3.
+    <img src="Myndir/Enemy 3.PNG" alt="Airplane" width="800" height="532">
+    <p>Þetta mun vera þriðji óvinurinn og mun sjást í borði 3.
     <br>
     Þessi flugvél er kröftug, fer hægt og með mikið líf, og þarf ekki að fylgja sömu reglum og bílarnir.
     <br>
@@ -45,7 +45,7 @@
     <h2>Turnarnir</h2>
     <h3>Það eru 2 turnar.</h3>
     <h4>Normal Tower</h4>
-    <img src="docs/Myndir/Tower 1.PNG" alt="Tower" width="800" height="532">
+    <img src="Myndir/Tower 1.PNG" alt="Tower" width="800" height="532">
     <p>Þetta mun vera fyrsti turninn.
     <br>
     Þessi turn skýtur hægt, hefur langt drif og gerir mikinn skaða.
@@ -54,7 +54,7 @@
     <br>
     <br>
     <h4>Sentry Tower</h4>
-    <img src="docs/Myndir/Tower 2.PNG" alt="Sentry" width="800" height="532">
+    <img src="Myndir/Tower 2.PNG" alt="Sentry" width="800" height="532">
     <p>Þetta mun vera annar turninn.
     <br>
     Þessi turn skýtur hratt, hefur stutt drif og gerir lítinn skaða.
@@ -66,14 +66,14 @@
     <h2>Borð Yfirlit</h2>
         <h3>Það eru 3 borð.</h3>
     <h4>Level 1</h4>
-    <img src="docs/Myndir/Level 1.PNG" alt="Borð 1" width="800" height="532">
+    <img src="Myndir/Level 1.PNG" alt="Borð 1" width="800" height="532">
     <p>Þetta mun vera borð nr 1, eða fyrsta level.
     <br>
     Fyrsta borðið hefur bara venjulega trukkana og fara þeir sikksakk meðfram veggjunum.
     <br>
     <br>
     <h4>Level 2</h4>
-    <img src="docs/Myndir/Level 2.PNG" alt="Borð 2" width="800" height="532">
+    <img src="Myndir/Level 2.PNG" alt="Borð 2" width="800" height="532">
     <p>Þetta mun vera borð nr 2, eða annað level.
     <br>
     Annað borðið hefur 2 óvini sem eru venjulegu trukkarnir og litlu bílarnir.
@@ -84,7 +84,7 @@
     <br>
     <br>
     <h4>Level 3</h4>
-    <img src="docs/Myndir/Level 3.PNG" alt="Borð 3" width="800" height="532">
+    <img src="Myndir/Level 3.PNG" alt="Borð 3" width="800" height="532">
     <p>Þetta mun vera borð nr 3, eða þriðja level.
     <br>
     þriðja borðið hefur 3 óvini sem eru venjulegu trukkarnir, litlu bílarnir og flugvélar.
@@ -98,7 +98,7 @@
     <h2>Nokkrar Skriptur</h2>
     <p>
     <h4>WaveSpawner</h4>
-    <img src="docs/Myndir/WaveSpawnerscript.PNG" alt="Wavespawner" width="800" height="532">
+    <img src="Myndir/WaveSpawnerscript.PNG" alt="Wavespawner" width="800" height="532">
     <p>WaveSpawner skriptan les út hvenær má og má ekki senda óvini út á borðið.
     <br>
     Þegar borðið byrjar mun skriptan gefa nokkrar sekúndur áður en hún leggur fram óvinina.<br>
@@ -108,21 +108,21 @@
     <br>
     <p>
     <h4>EnemyHealth</h4>
-    <img src="docs/Myndir/Enemyhealthscript.PNG" alt="Enemyhealth" width="800" height="532">
+    <img src="Myndir/Enemyhealthscript.PNG" alt="Enemyhealth" width="800" height="532">
     <p>EnemyHealth skriptan er bæði til að telja niður lífið á óvinum,<br>
     og fyrir Wavespawner skriptuna til að lesa út hvenær það eru óvinir eftir á borðinu.
     <br>
     <br>
     <p>
     <h4>Waypoints</h4>
-    <img src="docs/Myndir/Waypointsscript.PNG" alt="Waypoints" width="800" height="532">
+    <img src="Myndir/Waypointsscript.PNG" alt="Waypoints" width="800" height="532">
     <p>Waypoints skriptan er nýtt til að láta óvini elta ákveðna punkta í gegnum borðið<br>
     Þessi skripta er aðeins hægt að nýta ef þú setur nokkra waypoints inn í 'Empty Object'<br>
     <br>
     <br>
     <p>
     <h4>Enemymovement</h4>
-    <img src="docs/Myndir/Enemymovementscript.PNG" alt="Enemymovement" width="800" height="532">
+    <img src="Myndir/Enemymovementscript.PNG" alt="Enemymovement" width="800" height="532">
     <p>Enemymovement skriptan er sett á óvinina til að láta þá elta waypoints<br>
     Þegar óvinirnir eru búnir að fara í gegnum alla punktana eða 'Childs'<br>
     Þá eyðist óvinurinn upp og leikmaðurinn missir líf.
