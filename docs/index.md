@@ -40,7 +40,7 @@
     <br>
     Flugvélin getur farið yfir varnirnar og veggina þar sem hún getur flogið yfir allt til leiðarenda.
     <br>
-    Flugvélin hefur 140 líf, 4.5 í hraða, og virði 100 dollara.</p>
+    Flugvélin hefur 140 líf, 4.5 í hraða, og virði 200 dollara.</p>
     <h2>Turnarnir</h2>
     <h3>Það eru 2 turnar.</h3>
     <h4>Normal Tower</h4>
