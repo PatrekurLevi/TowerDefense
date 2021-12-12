@@ -17,7 +17,7 @@
     <h2>Óvinirnir.</h2>
     <h3>Það eru 3 óvinir.</h3>
     <h4>Truck</h4>
-    <img src="docs/Myndir/Enemy 1.PNG" alt="Truck" width="800" height="532">
+    <img src="Myndir/Enemy 1.PNG" alt="Truck" width="800" height="532">
     <p>Þetta mun vera fyrsti óvinurinn og mun sjást í öllum borðum.
     <br>
     Þessi bíll er algengasti óvinurinn og er voða lítið sérstakt við hann.
@@ -26,7 +26,7 @@
     <br>
 
     <h4>Jeep</h4>
-    <img src="docs/Myndir/Enemy 2.PNG" alt="Jeep" width="800" height="532">
+    <img src="Myndir/Enemy 2.PNG" alt="Jeep" width="800" height="532">
     <p>Þetta mun vera annar óvinurinn og mun sjást í borði 2 og 3.
     <br>
     Þessi bíll er smár, en mjög hraður.
