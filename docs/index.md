@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <title>Tower Defense</title>
@@ -141,9 +140,4 @@
           bæta við öðruvísi turnum eða jafnvel öðruvísi óvinum.</p>
           <br>
           <br>
-          <br>
-          <br>
-    </p></center>
-</body>
-</html>
   
