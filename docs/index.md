@@ -64,6 +64,7 @@
     <br>
     <h2>Borð Yfirlit</h2>
         <h3>Það eru 3 borð.</h3>
+    <br>
     <h4>Level 1</h4>
     <img src="Myndir/Level 1.PNG" alt="Borð 1" width="800" height="532">
     <p>Þetta mun vera borð nr 1, eða fyrsta level.
